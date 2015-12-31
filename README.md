@@ -1,5 +1,5 @@
 # Be Relative WordPress Plugin for [BeTheme](http://themeforest.net/item/betheme-responsive-multipurpose-wordpress-theme/7758048?ref=pingram3541)
-=
+---------
 Modifies betheme upload fields to provide relative urls instead of absolute urls
 
 Why use this plugin?
