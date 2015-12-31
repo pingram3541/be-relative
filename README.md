@@ -8,7 +8,7 @@ Why use this plugin?
 BeTheme is a wonderful multi-purpose WordPress theme built by muffingroup.  The theme provides many options in which you can upload custom logo's, favicon's and even images within the page builder however all of these fields store absolute values into the database.
 
 This is not helpful when building out the website in a development environment and later migrating the website, most of the common tools used to convert the database will not anticipate the custom database areas that BeTheme uses and the live site will still reference the development site's absolute paths.  Use this override to change BeTheme's upload fields to store relative paths
-
+---------
 > **One step only:**
 
 > 1. Simply upload the plugin and activate
